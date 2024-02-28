@@ -1,0 +1,14 @@
+p{
+    font-weight: bold;
+}
+li:last-child{
+    border: 2px solid gold;
+}
+b:only-child{
+    text-decoration: underline;
+    font-size: 30px;
+}
+li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+}

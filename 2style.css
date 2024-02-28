@@ -1,0 +1,75 @@
+boby{
+    margin: 0;
+    font-family: sans-serif;
+    letter-spacing: 0.2px;
+}
+.header {
+    background: goldenrod;
+    padding: 15px 10px 5px ;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+}
+header img{
+    width: 100%;
+    height:auto;
+} 
+.header-nav{
+    width: 35%;
+    margin: 20px 0;
+    text-align: center;
+}
+.header-nav a {
+    color: inherit;
+    padding: 0 10px;
+}
+.header-title {
+    margin-top: 0;
+    text-align: center;
+    text-decoration: underline;
+}
+.header-nav:hover{
+    color: rgb(4, 187, 20);
+    font-size: 20px; 
+    font-style: blue;
+    background-color:WHITE;
+    width: 50% ;
+}
+.header-title:hover{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+    .main {
+    background: lightgrey;
+    padding: 20px;
+    line-height: 1.4; 
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.footer{
+    position: absolute;
+    right: 0;
+    margin-right: 10px;
+    background: rgb(149, 209, 233);
+    padding: 10px 20px;
+}
+.botton{
+    position: absolute;
+    margin-left: 45%;
+    margin-bottom: 5px;
+    color: #fff;
+    background: rgb(201, 142, 14);
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 0.4em 0.5em;
+}
+label{
+    position: static;
+    text-transform: capitalize;
+    clear: both;
+    background-color: rgb(9, 157, 226);
+    padding: 5px;
+    text-decoration: underline;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
